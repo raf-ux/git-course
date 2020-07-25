@@ -15,6 +15,5 @@ Desfazendo coisas:
 	-git checkout <nome do  arquivo>
 	-git reset <local> <nome do arquivo>
 	-git reset --soft --mixer --hard <commit anterior>
-
-	
-
+Enviando mudanca para repositorio remoto:
+	-git push
